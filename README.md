@@ -1,104 +1,259 @@
-# <p align="center">✨ Mohammad Ghous Mujtaba ✨</p>
+# Hi 👋, I'm **Mohammad Ghous Mujtaba**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;Cloud+%26+Automation+Explorer;Building+Scalable+Web+Apps;React+%7C+AWS+%7C+n8n" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+### 🚀 Frontend Web Developer | ☁️ Cloud & Automation Explorer
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba-siddique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-siddique&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+web+apps;React+%7C+Cloud+%7C+Automation;Learning+by+building+and+breaking;Always+curious+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-<div align="center">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mujtaba-siddique&repo=portfolio-website&theme=tokyonight&hide_border=true" />
-</div>
+<table>
+<tr>
+<td width="50%">
 
-- 🚀 **Mission:** Building clean, high-performance, and scalable web applications.
-- 🧠 **Expertise:** Strong foundation in **React**, **JavaScript**, and modern **CSS**.
-- ☁️ **Cloud:** Actively exploring **AWS Infrastructure** and serverless architectures.
-- 🔄 **Automation:** Designing efficient workflows using **n8n** and API integrations.
-- 🛠️ **Philosophy:** I learn by **building → breaking → rebuilding**.
-- 📈 **Focus:** Obsessed with Developer Experience (DX) and performance optimization.
+- 🚀 Focused on **clean code, performance & scalability**
+- 🧠 Strong in **HTML, CSS, JavaScript, React**
+- ☁️ Exploring **AWS Cloud Infrastructure**
+- 🔁 Learning **n8n Automation & Workflows**
+- 🛠️ I learn by **building → breaking → rebuilding**
+- 📈 Obsessed with **DX & optimization**
+
+</td>
+<td width="50%">
 
 ```javascript
 const developer = {
-  name: "Mohammad Ghous Mujtaba",
-  role: "Frontend Developer | Cloud Explorer",
+  name: "Mohammad Ghous",
+  role: "Frontend Dev",
   location: "India 🇮🇳",
-  motto: "Build. Break. Learn.",
-  techStack: ["React", "AWS", "n8n", "Node.js"]
+  languages: ["JavaScript", "HTML", "CSS"],
+  frameworks: ["React"],
+  currentFocus: ["AWS", "n8n"],
+  motto: "Build. Break. Learn."
 };
 ```
 
----
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,postman,figma,git,vscode,tailwind,bootstrap" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+## 🌐 Connect With Me
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🎨 Portfolio** | Personal showcase of skills and projects | `React` `Tailwind` |
-| **⚡ Task Manager** | Productivity app with local persistence | `JavaScript` `React` |
-| **🌤️ Weather Dash** | Real-time weather data via API | `React` `OpenWeather` |
-| **🔄 n8n Flows** | Automated business & dev workflows | `n8n` `APIs` |
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mohammadghousmujtaba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-ghous-mujtaba-476505221)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ghous_mujtaba)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.mujtaba@gmail.com)
 
 </div>
 
 ---
 
-### 📊 Contribution & Activity
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujtaba-siddique&bg_color=1a1b27&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujtaba-siddique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🔧 Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🧭 Currently Learning
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00E676&center=true&width=500&lines=AWS+Cloud+Fundamentals+☁️;n8n+Automation+Workflows+🔄;System+Design+Basics+🏗️;Testing+%26+Debugging+🧪)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🎯 2026 Roadmap
+## 🚀 What I'm Working On
 
-- [ ] ☁️ **AWS Certified Cloud Practitioner**
-- [ ] 🏗️ **Master System Design Principles**
-- [ ] 🤝 **Contribute to Major Open Source Projects**
-- [ ] 📱 **Build a Full-Stack Mobile App (React Native)**
-- [ ] 🤖 **Advanced AI-driven Automation with n8n**
+<div align="center">
+
+| 🎯 Focus Area | 📝 Description | 🛠️ Tech |
+|:---:|:---:|:---:|
+| **React Projects** | Building scalable web apps | React, JS |
+| **Cloud Computing** | AWS infrastructure & services | AWS, Cloud |
+| **Automation** | Workflow automation | n8n, APIs |
+| **Learning** | System design & optimization | Various |
+
+</div>
+
+---
+
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammad-ghous-mujtaba-476505221" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/mohammadghousmujtaba" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://x.com/ghous_mujtaba" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="mailto:tech.mujtaba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mujtaba-siddique&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujtaba-siddique&bg_color=1a1b27&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <b>⚡ Crafted with passion, curiosity, and caffeine ☕</b><br>
-  <i>Made with ❤️ by Mohammad Ghous Mujtaba</i>
-</p>
+</div>
 
 ---
+
+## ✨ Dev Philosophy
+
+<div align="center">
+
+### 💭 Code With Purpose
+
+```
+┌─────────────────────────────────────┐
+│  "Code is like humor.                │
+│   When you have to explain it,      │
+│   it's bad."                         │
+│                    – Cory House      │
+└─────────────────────────────────────┘
+```
+
+**My Development Cycle:**
+
+```mermaid
+graph LR
+    A[Problem] --> B[Research]
+    B --> C[Build]
+    C --> D[Test]
+    D --> E[Break]
+    E --> F[Learn]
+    F --> G[Optimize]
+    G --> H[Ship]
+    H --> A
+```
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Portfolio Website
+**Personal portfolio showcasing projects**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ Task Manager
+**Productivity app with local storage**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🌤️ Weather Dashboard
+**Real-time weather with API integration**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![API](https://img.shields.io/badge/-API-009688?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+### 🔄 Automation Workflows
+**n8n workflow automation**
+
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n)
+![API](https://img.shields.io/badge/-API-009688?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📚 Learning Journey
+
+<div align="center">
+
+```ascii
+     ⭐ Current Focus ⭐
+    
+    ┌─────────────────┐
+    │   Frontend      │ ████████░░ 80%
+    ├─────────────────┤
+    │   React         │ ███████░░░ 70%
+    ├─────────────────┤
+    │   AWS Cloud     │ ████░░░░░░ 40%
+    ├─────────────────┤
+    │   Automation    │ ███░░░░░░░ 30%
+    ├─────────────────┤
+    │   System Design │ ██░░░░░░░░ 20%
+    └─────────────────┘
+```
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+<div align="center">
+
+- [x] Master React fundamentals
+- [x] Build 5+ real-world projects
+- [ ] AWS Certified Cloud Practitioner
+- [ ] Contribute to open source
+- [ ] Build a full-stack application
+- [ ] Master n8n automation
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=mujtaba-siddique&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+### ⚡ Crafted with passion, curiosity, and caffeine ☕
+
+**Made with ❤️ by Mohammad Ghous Mujtaba**
+
+---
+
+<sub>⭐ From [mujtaba-siddique](https://github.com/mujtaba-siddique) | Last Updated: January 2025</sub>
+
+</div>

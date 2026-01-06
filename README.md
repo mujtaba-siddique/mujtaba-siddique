@@ -1,99 +1,142 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Mohammad Ghous Mujtaba</h1>
-<h3 align="center">Frontend Web Developer | Cloud & Automation Explorer</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4FC3F7;">Mohammad Ghous Mujtaba</span>
+</h1>
+
+<h3 align="center">
+  🚀 Frontend Web Developer | ☁️ Cloud & Automation Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+web+apps;React+%7C+Cloud+%7C+Automation;Learning+by+building+and+breaking;Always+curious+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=22
+    &pause=1000
+    &color=4FC3F7
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Building+clean+and+scalable+web+apps;
+    React+%7C+Cloud+%7C+Automation;
+    Learning+by+building+and+breaking;
+    Always+curious+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 💫 About Me
-- 🚀 Web developer focused on **clean code, clear logic, and scalable systems**
-- 🧠 Strong foundation in **HTML, CSS, JavaScript, React**
-- ☁️ Exploring **AWS cloud infrastructure**
-- 🔁 Learning **n8n automation** & workflow orchestration
-- 🛠️ I learn by **building, breaking, and rebuilding**
-- 📈 Always improving developer experience & performance
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🚀 Focused on **clean code, performance & scalability**
+- 🧠 Strong in **HTML, CSS, JavaScript, React**
+- ☁️ Exploring **AWS Cloud Infrastructure**
+- 🔁 Learning **n8n Automation & Workflows**
+- 🛠️ I learn by **building → breaking → rebuilding**
+- 📈 Obsessed with **DX & optimization**
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/mohammadghousmujtaba" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+
+<p align="center">
+  <a href="https://instagram.com/mohammadghousmujtaba">
+    <img src="https://img.shields.io/badge/Instagram-Gradient?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/mohammad-ghous-mujtaba-476505221" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/mohammad-ghous-mujtaba-476505221">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/ghous_mujtaba" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white">
+  <a href="https://x.com/ghous_mujtaba">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="mailto:tech.mujtaba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
+
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
 
 ### 🔧 Tools & Platforms
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 🧭 Currently Learning
-- ☁️ AWS (EC2, S3, IAM, Cloud basics)
-- 🔁 n8n workflow automation
-- 🧩 System design fundamentals
-- 🧪 Better testing & debugging practices
-
----
-
-## 🚀 What I’m Working On
-- ⚡ Real-world React projects
-- 🔄 Automating tasks using n8n
-- 📦 Backend + cloud-connected apps
-- 📊 Improving performance & scalability
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba-siddique&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mujtaba-siddique&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-siddique&layout=compact&theme=dark&hide_border=false" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,postman,figma,nodejs&theme=dark" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧭 Currently Learning
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mujtaba-siddique&theme=darkhub&no-frame=false&margin-w=15">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=18
+    &pause=1200
+    &color=00E676
+    &center=true
+    &width=500
+    &lines=AWS+Cloud+Fundamentals;
+    n8n+Automation+Workflows;
+    System+Design+Basics;
+    Testing+%26+Debugging" />
+</p>
+
+---
+
+## 🚀 What I’m Working On
+
+- ⚡ Real-world **React projects**
+- 🔄 **Automation** using n8n
+- ☁️ Cloud-connected apps
+- 📊 Performance & scalability improvements
+
+---
+
+## 📊 GitHub Analytics (Live)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujtaba-siddique&show_icons=true&theme=tokyonight&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mujtaba-siddique&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-siddique&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mujtaba-siddique&theme=onedark&row=1&margin-w=15" />
 </p>
 
 ---
 
 ## ✨ Dev Philosophy
-> “Make it work.  
-> Make it right.  
-> Make it fast.”
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mujtaba-siddique&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=mujtaba-siddique&label=Profile+Views&color=12&icon=5&pretty=true" />
 </p>
 
-<!-- Proudly crafted with ❤️ -->
+<p align="center">
+  ⚡ Crafted with passion, curiosity, and caffeine ☕
+</p>

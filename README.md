@@ -4,7 +4,7 @@
   
 ### 🚀 Frontend Web Developer | ☁️ Cloud & Automation Explorer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+web+apps;React+%7C+Cloud+%7C+Automation;Learning+by+building+and+breaking;Always+curious+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+web+apps;React+%7C+Cloud+%7C+Automation;Learning+by+building+and+breaking;Always+curious+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,20 +12,9 @@
 
 ## 💫 About Me
 
-<div align="right">
-  
-```javascript
-const developer = {
-  name: "Mohammad Ghous Mujtaba",
-  role: "Frontend Developer",
-  location: "India 🇮🇳",
-  skills: ["React", "JavaScript", "AWS", "n8n"],
-  learning: ["Cloud Architecture", "Automation"],
-  philosophy: "Build → Break → Learn → Rebuild"
-};
-```
-
-</div>
+<table>
+<tr>
+<td width="50%">
 
 - 🚀 Focused on **clean code, performance & scalability**
 - 🧠 Strong in **HTML, CSS, JavaScript, React**
@@ -33,6 +22,25 @@ const developer = {
 - 🔁 Learning **n8n Automation & Workflows**
 - 🛠️ I learn by **building → breaking → rebuilding**
 - 📈 Obsessed with **DX & optimization**
+
+</td>
+<td width="50%">
+
+```javascript
+const developer = {
+  name: "Mohammad Ghous",
+  role: "Frontend Dev",
+  location: "India 🇮🇳",
+  languages: ["JavaScript", "HTML", "CSS"],
+  frameworks: ["React"],
+  currentFocus: ["AWS", "n8n"],
+  motto: "Build. Break. Learn."
+};
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,17 +59,23 @@ const developer = {
 
 ## 💻 Tech Stack
 
-### 🌐 Frontend
+<div align="center">
+
+### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
@@ -69,7 +83,7 @@ const developer = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E676&center=true&width=500&lines=AWS+Cloud+Fundamentals;n8n+Automation+Workflows;System+Design+Basics;Testing+%26+Debugging)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00E676&center=true&width=500&lines=AWS+Cloud+Fundamentals+☁️;n8n+Automation+Workflows+🔄;System+Design+Basics+🏗️;Testing+%26+Debugging+🧪)](https://git.io/typing-svg)
 
 </div>
 
@@ -77,22 +91,16 @@ const developer = {
 
 ## 🚀 What I'm Working On
 
-```mermaid
-mindmap
-  root((My Focus))
-    React Projects
-      Real-world apps
-      Performance optimization
-    Cloud Computing
-      AWS services
-      Cloud architecture
-    Automation
-      n8n workflows
-      API integrations
-    Learning
-      System design
-      Testing strategies
-```
+<div align="center">
+
+| 🎯 Focus Area | 📝 Description | 🛠️ Tech |
+|:---:|:---:|:---:|
+| **React Projects** | Building scalable web apps | React, JS |
+| **Cloud Computing** | AWS infrastructure & services | AWS, Cloud |
+| **Automation** | Workflow automation | n8n, APIs |
+| **Learning** | System design & optimization | Various |
+
+</div>
 
 ---
 
@@ -100,21 +108,30 @@ mindmap
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujtaba-siddique&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mujtaba-siddique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mujtaba-siddique&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mujtaba-siddique&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-siddique&layout=compact&theme=tokyonight&hide_border=true)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtaba-siddique&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mujtaba-siddique&theme=tokyonight&no-frame=true&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mujtaba-siddique&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujtaba-siddique&bg_color=1a1b27&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -124,37 +141,120 @@ mindmap
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+### 💭 Code With Purpose
 
-**My Approach:**
 ```
-Problem → Research → Build → Test → Break → Learn → Optimize → Ship
+┌─────────────────────────────────────┐
+│  "Code is like humor.                │
+│   When you have to explain it,      │
+│   it's bad."                         │
+│                    – Cory House      │
+└─────────────────────────────────────┘
+```
+
+**My Development Cycle:**
+
+```mermaid
+graph LR
+    A[Problem] --> B[Research]
+    B --> C[Build]
+    C --> D[Test]
+    D --> E[Break]
+    E --> F[Learn]
+    F --> G[Optimize]
+    G --> H[Ship]
+    H --> A
 ```
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🔥 Featured Projects
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujtaba-siddique&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 Portfolio Website
+**Personal portfolio showcasing projects**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ Task Manager
+**Productivity app with local storage**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🌤️ Weather Dashboard
+**Real-time weather with API integration**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![API](https://img.shields.io/badge/-API-009688?style=flat-square)
+
+</td>
+<td align="center" width="50%">
+
+### 🔄 Automation Workflows
+**n8n workflow automation**
+
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n)
+![API](https://img.shields.io/badge/-API-009688?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 Recent Projects
+## 📚 Learning Journey
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎯 **Portfolio** | Personal portfolio website | React, CSS3 |
-| ⚡ **Task Manager** | Productivity app | React, Local Storage |
-| 🌤️ **Weather App** | Real-time weather data | React, API |
-| 🔄 **Automation Bot** | Workflow automation | n8n, APIs |
+```ascii
+     ⭐ Current Focus ⭐
+    
+    ┌─────────────────┐
+    │   Frontend      │ ████████░░ 80%
+    ├─────────────────┤
+    │   React         │ ███████░░░ 70%
+    ├─────────────────┤
+    │   AWS Cloud     │ ████░░░░░░ 40%
+    ├─────────────────┤
+    │   Automation    │ ███░░░░░░░ 30%
+    ├─────────────────┤
+    │   System Design │ ██░░░░░░░░ 20%
+    └─────────────────┘
+```
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+<div align="center">
+
+- [x] Master React fundamentals
+- [x] Build 5+ real-world projects
+- [ ] AWS Certified Cloud Practitioner
+- [ ] Contribute to open source
+- [ ] Build a full-stack application
+- [ ] Master n8n automation
 
 </div>
 
@@ -162,20 +262,18 @@ Problem → Research → Build → Test → Break → Learn → Optimize → Shi
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mujtaba-siddique&color=4FC3F7&style=for-the-badge)
+### 📊 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=mujtaba-siddique&color=4FC3F7&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
 
 ### ⚡ Crafted with passion, curiosity, and caffeine ☕
 
 **Made with ❤️ by Mohammad Ghous Mujtaba**
 
-</div>
-
 ---
 
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<sub>⭐ From [mujtaba-siddique](https://github.com/mujtaba-siddique) | Last Updated: January 2025</sub>
 
 </div>

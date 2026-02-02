@@ -225,15 +225,15 @@ graph LR
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 <div align="center">
 
 - [x] Master React fundamentals
 - [x] Build 5+ real-world projects
 - [ ] AWS Certified Cloud Practitioner
-- [ ] Contribute to open source
 - [ ] Build a full-stack application
+- [ ] Contribute to open source
 - [ ] Master n8n automation
 
 </div>
